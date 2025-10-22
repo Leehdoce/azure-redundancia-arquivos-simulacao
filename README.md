@@ -33,7 +33,7 @@ Por motivos pessoais, não foi possível criar uma conta Azure. Assim, este proj
 - O Azure normalmente gerencia essa replicação automaticamente.
 
 🖼️ *Exemplo ilustrativo do processo:*
-![Fluxo de Redundância](https://i.imgur.com/yUev1Z5.png)
+![Fluxo de Redundância](Azure_redundancia.png)
 
 ---
 
