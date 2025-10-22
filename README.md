@@ -1,0 +1,1 @@
+# azure-redundancia-arquivos-simulacao
