@@ -14,7 +14,7 @@ Por motivos pessoais, não foi possível criar uma conta Azure. Assim, este proj
 - O objetivo seria configurar **redundância geográfica (GRS)**, garantindo cópias automáticas dos arquivos em diferentes regiões.
 
 🖼️ *Exemplo ilustrativo de Storage Account:*
-![Exemplo Storage Account](https://i.imgur.com/4XH6slU.png)
+![Exemplo Storage Account](storage_account.png)
 
 ---
 
