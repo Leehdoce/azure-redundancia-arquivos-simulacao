@@ -22,8 +22,6 @@ Por motivos pessoais, não foi possível criar uma conta Azure. Assim, este proj
 - Dentro do Storage Account, criam-se **containers** para armazenar os arquivos.
 - Um container seria usado para os dados principais e outro para backup.
 
-🖼️ *Exemplo ilustrativo de containers:*
-![Containers Blob](https://i.imgur.com/0SPFcfc.png)
 
 ---
 
